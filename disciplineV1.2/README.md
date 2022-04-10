@@ -1,6 +1,8 @@
 # DISCIPLINE V1.5
 Originally created by coseyfannitutti 
+
 **65% keyboard assembled with only through hole components, including usb type-c**
+
 ### Disclaimer
 This board is a heavily-modified coseyfannitutti DISCIPLINE V1 Pcb While the schematic, basic layout etc is essentially the same, it supports additional features like Hot-swap,Encoder etc.
 
